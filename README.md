@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Hi, I'm Abhiram. A pixel Python with a rainbow trail flies across a starry sky (it has been flying since 2026 and refuses to land).">
+  <img src="assets/header.svg" width="100%" alt="Hello, I'm Abhiram, aka Ramettan. A pixel Python with a rainbow trail flies across a starry sky (it has been flying since 2026 and refuses to land).">
 </p>
 
 <p align="center">
@@ -31,13 +31,6 @@ I'm a **creative problem solver** who likes building anything that makes life a 
 - 🎨 **Design** brain: I care how things look *and* how they feel to use
 - 🔁 Currently shipping **[DaQueue](https://github.com/abhiramkunnath/DaQueue)**, because YouTube's queue kept forgetting everything
 - 🤔 Fun fact: I don't have a queue problem. I built one.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/mode-dark.svg">
-    <img src="assets/mode-light.svg" width="600" alt="A message that changes with your GitHub theme. Yes, really. Switch themes and come back.">
-  </picture>
-</p>
 
 ---
 
