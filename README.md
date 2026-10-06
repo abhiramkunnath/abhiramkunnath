@@ -45,8 +45,8 @@ I'm a **creative problem solver** who likes building anything that makes life a 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,python,figma,git,github,vscode&theme=dark">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,git,github,vscode&theme=light" alt="HTML, CSS, JavaScript, Python, Figma, Git, GitHub, VS Code (and an unhealthy amount of coffee)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cpython%2Cfigma%2Cgit%2Cgithub%2Cvscode&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cpython%2Cfigma%2Cgit%2Cgithub%2Cvscode&theme=light" alt="HTML, CSS, JavaScript, Python, Figma, Git, GitHub, VS Code (and an unhealthy amount of coffee)">
   </picture>
 </p>
 
