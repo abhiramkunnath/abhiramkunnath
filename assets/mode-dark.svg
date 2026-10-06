@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 64" width="760" height="64" role="img" aria-label="Dark mode. A developer of culture, I see. Bugs are attracted to light. You are safe here. (Try light mode.)">
+<rect x="1" y="1" width="758" height="62" rx="14" fill="#0d1b2e" stroke="#3776ab" stroke-opacity=".5"/>
+<text x="28" y="41" style="font: 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif">🌙</text>
+<text x="72" y="30" style="font: 700 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" fill="#e8f0ff">Dark mode. A developer of culture, I see.</text>
+<text x="72" y="50" style="font: 400 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" fill="#8fb2e6">Bugs are attracted to light. You are safe here. (Try light mode.)</text>
+</svg>
